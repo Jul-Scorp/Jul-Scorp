@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Jul-Scorp
+- 👋 Hi, I’m Julia
 - 👀 I’m interested in new friends 
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on learning and small projects
+- 🌱 I’m currently learning web-developing
+- 💞️ 
 - 📫 
 
 <!---
